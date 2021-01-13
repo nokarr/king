@@ -25,7 +25,7 @@ int main()
     // You can find out more details about how they work at the following urls.
     // http://www.cplusplus.com/reference/string/to_string/
     // http://www.cplusplus.com/reference/string/stoi/
-	cout << "Your number plus 5 equals " << to_string(stoi(number) + 5) << endl << endl;
+	cout << "Your number  5 equals " << to_string(stoi(number) + 5) << endl << endl;
 	
 	// New C++ 17 feature: variable initialisation within an 'if' statement. The scope of the
 	// variable is limited to the 'if' statement's scope.
